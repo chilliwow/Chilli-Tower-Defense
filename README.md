@@ -8,23 +8,23 @@
 - 3 starting levels - Unlock more by reaching higher levels
 
 # Upgrades
-## Active
+### Active
 - TBD
-## Passive
+### Passive
 - TBD
 
 # Stats
-## Player
+### Player
 - Faster ability recharge
 - Faster Movement speed
 
-## Tower
+### Tower
 - CritX
 - Crit%
 - Atk Speed
 - Range
 - Damage%
 
-## Platforms
+# Platforms
 - Only PC for now 
 - Mobile later into development
